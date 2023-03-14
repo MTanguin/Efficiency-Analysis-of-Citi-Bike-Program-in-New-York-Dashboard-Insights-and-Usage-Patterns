@@ -1,5 +1,8 @@
 # citi_bike_tableau
 
+https://public.tableau.com/app/profile/mtanguin/viz/MyFirstViz_16787213064800/MyFirstViz
+
+
 BACKGROUND 
 
 As the new lead analyst for the New York Citi Bike program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
@@ -34,14 +37,23 @@ By analyzing the count of riders by station, it is possible to identify the most
 Based on the data, the top 10 stations with the highest counts of riders are:
 
 South Waterfront Walkway-Sinatra Dr & 1 St	(3542)
+
 Grove St PATH 	(3306)
+
 Hoboken Terminal-Hudson St & Hudson Pl	(2364)
+
 12 St & Sinatra Dr N	(2252)
+
 Hamilton Park	(2246)
+
 Newport Pkwy	(2213)
+
 City Hall-Washington St & 1 St	(2162)
+
 Hoboken Terminal-River St & Hudson Pl	(2117)
+
 Newport PATH	(2114)
+
 Marin Light Rail	(2096)
 
 
@@ -54,40 +66,67 @@ The Top 10 Stations with the highest distance traveled are categorized based on 
 Top 10 Stations with the highest distance traveled in miles: Electric bike category
 
 14 St Ferry - 14 St & Shipyard Ln (4718)
+
 Sip Ave (4527)
+
 12 St & Sinatra Dr N  (3951)
+
 11 St & Washington St (3897)
+
 Newport PATH (3833)
+
 Newport Pkwy (3692)
+
 Baldwin at Montgomery (3680)
+
 Hamilton Park (3618)
+
 Grand St & 14 St (3155)
+
 Hudson St & 14 St (3150)
 
 Top 10 Stations with the highest distance traveled in miles: classic bike category
 
 McGinley Square (4655)
+
 Lafayette Park  (4578)
+
 Marshall St & 2 St (4240)
+
 Hilltop  (4212)
+
 Baldwin at Montgomery (4085)
+
 Journal Square (3663)
+
 Pershing Field (3626)
+
 Stevens - River Ter & 6 St (3350)
+
 Riverview Park (3325)
+
 Monmouth and 6th (3193)
 
 Top 10 Stations with the highest distance traveled in miles: docked bike category
 
 South Waterfront Walkway - Sinatra Dr & 1 St (359.8)
+
 12 St & Sinatra Dr N (241.4)
+
 14 St Ferry - 14 St & Shipyard Ln (213.3)
+
 Columbus Dr at Exchange Pl (173.6)
+
 Liberty Light Rail (168.4)
+
 City Hall - Washington St & 1 St (148.3)
+
 Hoboken Terminal - River St & Hudson Pl (127.1)
+
 Hoboken Terminal - Hudson St & Hudson Pl (121.1)
+
 Grove St PATH (117.4)
+
 Bloomfield St & 15 St (113.1)
 
 
@@ -98,41 +137,68 @@ Average speed in MPH is a good indicator of bike system efficiency. By analyzing
 The Top 10 Stations with the highest speed in Mph ranging from 7 mph to 7.803 mph : Electric bike category
 
 Bergen Ave
+
 JCBS Depot
+
 Astor Place
+
 Baldwin at Montgomery
+
 McGinley Square
+
 14 St Ferry - 14 St & Shipyard Ln
+
 Fairmount Ave
+
 Madison St & 1 St
+
 Grand St & 14 St
+
 Lafayette Park
 
 
 The Top 10 Stations with the highest speed in Mph ranging from 5.850 mph to 7.803 mph : classic bike category
 
 Baldwin at Montgomery
+
 Bergen Ave
+
 Astor Place
+
 McGinley Square
+
 Lafayette Park
+
 Hilltop
+
 Dixon Mills
+
 Communipaw & Berry Lane
+
 Marshall St & 2 St
+
 Jackson Square
 
 The Top 10 Stations with the highest speed in Mph ranging from 3.390 mph to 7.803 mph : docked bike category
 
 Dey St
+
 Brunswick & 6th
+
 Brunswick St
+
 Fairmount Ave
+
 Oakland Ave
+
 Astor Place
+
 Leonard Gordon Park
+
 Madison St & 1 St
+
 Baldwin at Montgomery
+
 McGinley Square
 
 The rest of the stations that are not part of the top 10s significantly need to be look at to figure out the factors that slowing the speed of the riders.
@@ -174,14 +240,23 @@ By analyzing the total distance traveled from each station, it is possible to id
 Based on the data, the top 10 most popular stations based on distance traveled ranging from 13,567 miles to 26,638 miles are:
 
 Grove St PATH
+
 Hoboken Terminal - River St & Hudson Pl
+
 South Waterfront Walkway - Sinatra Dr & 1 St
+
 City Hall - Washington St & 1 St
+
 Hoboken Terminal - Hudson St & Hudson Pl
+
 Hoboken Ave at Monmouth St
+
 Newport Pkwy
+
 Newport PATH
+
 14 St Ferry - 14 St & Shipyard Ln
+
 12 St & Sinatra Dr N
 
 Additionally, by analyzing the frequency of trips by month, it is possible to identify the busiest stations during different months of the year
