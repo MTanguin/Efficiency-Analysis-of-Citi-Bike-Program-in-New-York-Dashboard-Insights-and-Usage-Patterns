@@ -28,6 +28,10 @@ ANALYSIS
 
 DASHBOARD 1 -  Efficiency of Bike System in the City of New York
 
+
+![Dashboard1](https://user-images.githubusercontent.com/114210481/224877184-9768df85-75b1-47c8-9b82-5f8084e67361.png)
+
+
 Count of riders by station, distance traveled by station, and average speed in MPH provide valuable insights into the efficiency of the bike system in the City of New York.
 
 Count of Riders by Station
@@ -211,6 +215,9 @@ In summary, analyzing the count of riders by station, distance traveled by stati
 DASHBOARD 2 - Busiest Months
 
 
+![Dashboard2](https://user-images.githubusercontent.com/114210481/224877271-9bf476a1-7bfb-4e3c-9dfd-ff513ad81017.png)
+
+
 Analyzing the total monthly trips by station and total number of trips by month can give a good analysis of the busiest months for the Citi Bike program.
 
 Total Monthly Trips by Station
@@ -230,6 +237,11 @@ In summary, analyzing the total monthly trips by station and total number of tri
 
 
 DASHBOARD 3 - Busiest Stations
+
+
+![Dashboard3](https://user-images.githubusercontent.com/114210481/224877326-fd844dcb-6281-4923-838c-8a8f9ff4902d.png)
+
+
 
 Total Distance Traveled & Frequency of Trips by Month
 
@@ -267,6 +279,11 @@ In summary, analyzing the total distance traveled and frequency of trips by mont
 
 
 DASHBOARD 4 - Usage Patterns of Different Stations
+
+
+![Dashboard4](https://user-images.githubusercontent.com/114210481/224877365-e0c1e459-4876-4b11-9fd4-c2296452369d.png)
+
+
 
 Count of Trips by Rider Type
 
