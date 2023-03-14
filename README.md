@@ -239,6 +239,9 @@ In summary, analyzing the total monthly trips by station and total number of tri
 DASHBOARD 3 - Busiest Stations
 
 
+![Dashboard3_Busiest](https://user-images.githubusercontent.com/114210481/224877788-59d77dda-dde8-40ae-933a-2669ae2ed494.png)
+
+
 ![Dashboard3](https://user-images.githubusercontent.com/114210481/224877326-fd844dcb-6281-4923-838c-8a8f9ff4902d.png)
 
 
