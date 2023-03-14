@@ -315,6 +315,7 @@ In general, analyzing the count of trips by rider type and duration of trips by 
 SOURCES:
 
 https://courses.bootcampspot.com/courses/2799/assignments/42904?module_item_id=803824
+
 https://citibikenyc.com/system-data
 
 
