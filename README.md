@@ -3,7 +3,7 @@
 https://public.tableau.com/app/profile/mtanguin/viz/MyFirstViz_16787213064800/MyFirstViz
 
 
-BACKGROUND 
+## BACKGROUND 
 
 As the new lead analyst for the New York Citi Bike program, you are now responsible for overseeing the largest bike-sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -12,7 +12,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 
-RESEARCH QUESTIONS:
+## RESEARCH QUESTIONS:
 
 How efficient is the bike system in the city of New York in 2022?
 
@@ -23,7 +23,7 @@ What are the busiest stations in 2022?
 What are the usage patterns of different stations in 2022?
 
 
-ANALYSIS
+## ANALYSIS
 
 
 DASHBOARD 1 -  Efficiency of Bike System in the City of New York
