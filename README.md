@@ -34,7 +34,7 @@ What are the usage patterns of different stations in 2022?
 
 Count of riders by station, distance traveled by station, and average speed in MPH provide valuable insights into the efficiency of the bike system in the City of New York.
 
-Count of Riders by Station
+#### Count of Riders by Station
 
 By analyzing the count of riders by station, it is possible to identify the most popular bike stations, and the areas with the highest demand for bike transportation. This information can help improve the placement of new bike stations and optimize the distribution of bikes between stations, ultimately improving the overall efficiency of the bike system.
 
@@ -52,7 +52,7 @@ Based on the data, the top 10 stations with the highest counts of riders are:
 10. Marin Light Rail	(2096)
 
 
-Distance Traveled by Station
+#### Distance Traveled by Station
 
 Distance traveled by station is a useful metric to analyze. By tracking the distance traveled by riders from one station to another, it is possible to identify popular routes and destinations. This information can be used to improve the bike infrastructure on these routes, such as adding more bike lanes, improving road conditions, and optimizing traffic signals.
 
@@ -98,7 +98,7 @@ The Top 10 Stations with the highest distance traveled are categorized based on 
 10. Bloomfield St & 15 St (113.1)
 
 
-Average Speed in MPH
+#### Average Speed in MPH
 
 Average speed in MPH is a good indicator of bike system efficiency. By analyzing the average speed of riders, it is possible to identify areas where bikes are slowing down or encountering obstacles, such as heavy traffic or poor road conditions. This information can be used to improve the bike infrastructure in these areas and optimize bike routes to improve speed and reduce travel times.
 
@@ -157,13 +157,13 @@ In summary, analyzing the count of riders by station, distance traveled by stati
 
 Analyzing the total monthly trips by station and total number of trips by month can give a good analysis of the busiest months for the Citi Bike program.
 
-Total Monthly Trips by Station
+#### Total Monthly Trips by Station
 
 By analyzing the total monthly trips by station, it helps to identify the stations that have the highest ridership during different months. This information can be used to allocate resources and optimize the distribution of bikes and docking stations to meet the demand during these busy months and the Citi Bike program can prepare for increased demand, such as by increasing the number of bikes or hiring more staff during these months.
 
 Based on the data, most if not all the stations have increased total monthly trips between June, July and August (summer season). Very few stations have increased ride trips until the months of September & October.
 
-Total Number of Trips by Months
+#### Total Number of Trips by Months
 
 By analyzing the total number of trips by month, it helps to identify any seasonal trends in ridership. 
 
@@ -183,7 +183,7 @@ In summary, analyzing the total monthly trips by station and total number of tri
 
 
 
-Total Distance Traveled & Frequency of Trips by Month
+#### Total Distance Traveled & Frequency of Trips by Month
 
 Analyzing the total distance traveled and frequency of trips by month can provide valuable insights into the busiest stations for the Citi Bike program in New York.
 
@@ -216,7 +216,7 @@ In summary, analyzing the total distance traveled and frequency of trips by mont
 
 
 
-Count of Trips by Rider Type
+#### Count of Trips by Rider Type
 
 Analyzing the count of trips by rider type and duration of trips by month can provide valuable insights into the usage patterns of different stations in the Citi Bike program.
 
@@ -224,7 +224,7 @@ By analyzing the count of trips by rider type (i.e., member and casual), it is p
 
 Based on the data, majority of the riders are members with the higher amount of count of trips with peak amount in June, July and August and the trips are mostly on Saturday & Sundays. Obviously, casual riders are in peak during summer season as well and the trips are mostly on Saturdays and Sunday
 
-Duration of Trips By Month
+#### Duration of Trips By Month
 
 Analyzing the duration of trips by month can provide insights into the usage patterns of different stations. The stations have high frequency of short-duration trips, this may indicate that it is used primarily for short-distance commuting or running errands. In contrast, if a station has a high frequency of longer-duration trips, this may indicate that it is used more for recreational or leisurely rides.
 
