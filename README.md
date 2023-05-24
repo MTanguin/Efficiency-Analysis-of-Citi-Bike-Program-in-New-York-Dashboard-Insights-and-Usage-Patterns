@@ -26,7 +26,7 @@ What are the usage patterns of different stations in 2022?
 ## ANALYSIS
 
 
-DASHBOARD 1 -  Efficiency of Bike System in the City of New York
+### DASHBOARD 1 -  Efficiency of Bike System in the City of New York
 
 
 ![Dashboard1](https://user-images.githubusercontent.com/114210481/224877184-9768df85-75b1-47c8-9b82-5f8084e67361.png)
@@ -45,16 +45,11 @@ Based on the data, the top 10 stations with the highest counts of riders are:
 3. Hoboken Terminal-Hudson St & Hudson Pl	(2364)
 4. 12 St & Sinatra Dr N	(2252)
 5. Hamilton Park	(2246)
-
-Newport Pkwy	(2213)
-
-City Hall-Washington St & 1 St	(2162)
-
-Hoboken Terminal-River St & Hudson Pl	(2117)
-
-Newport PATH	(2114)
-
-Marin Light Rail	(2096)
+6. Newport Pkwy	(2213)
+7. City Hall-Washington St & 1 St	(2162)
+8. Hoboken Terminal-River St & Hudson Pl	(2117)
+9. Newport PATH	(2114)
+10. Marin Light Rail	(2096)
 
 
 Distance Traveled by Station
@@ -63,143 +58,89 @@ Distance traveled by station is a useful metric to analyze. By tracking the dist
 
 The Top 10 Stations with the highest distance traveled are categorized based on the type of bike used: electric, classic and docked.
 
-Top 10 Stations with the highest distance traveled in miles: Electric bike category
+- Top 10 Stations with the highest distance traveled in miles: Electric bike category
 
-14 St Ferry - 14 St & Shipyard Ln (4718)
+1. 14 St Ferry - 14 St & Shipyard Ln (4718)
+2. Sip Ave (4527)
+3. 12 St & Sinatra Dr N  (3951)
+4. 11 St & Washington St (3897)
+5. Newport PATH (3833)
+6. Newport Pkwy (3692)
+7. Baldwin at Montgomery (3680)
+8. Hamilton Park (3618)
+9. Grand St & 14 St (3155)
+10. Hudson St & 14 St (3150)
 
-Sip Ave (4527)
+- Top 10 Stations with the highest distance traveled in miles: classic bike category
 
-12 St & Sinatra Dr N  (3951)
+1. McGinley Square (4655)
+2. Lafayette Park  (4578)
+3. Marshall St & 2 St (4240)
+4. Hilltop  (4212)
+5. Baldwin at Montgomery (4085)
+6. Journal Square (3663)
+7. Pershing Field (3626)
+8. Stevens - River Ter & 6 St (3350)
+9. Riverview Park (3325)
+10. Monmouth and 6th (3193)
 
-11 St & Washington St (3897)
+- Top 10 Stations with the highest distance traveled in miles: docked bike category
 
-Newport PATH (3833)
-
-Newport Pkwy (3692)
-
-Baldwin at Montgomery (3680)
-
-Hamilton Park (3618)
-
-Grand St & 14 St (3155)
-
-Hudson St & 14 St (3150)
-
-Top 10 Stations with the highest distance traveled in miles: classic bike category
-
-McGinley Square (4655)
-
-Lafayette Park  (4578)
-
-Marshall St & 2 St (4240)
-
-Hilltop  (4212)
-
-Baldwin at Montgomery (4085)
-
-Journal Square (3663)
-
-Pershing Field (3626)
-
-Stevens - River Ter & 6 St (3350)
-
-Riverview Park (3325)
-
-Monmouth and 6th (3193)
-
-Top 10 Stations with the highest distance traveled in miles: docked bike category
-
-South Waterfront Walkway - Sinatra Dr & 1 St (359.8)
-
-12 St & Sinatra Dr N (241.4)
-
-14 St Ferry - 14 St & Shipyard Ln (213.3)
-
-Columbus Dr at Exchange Pl (173.6)
-
-Liberty Light Rail (168.4)
-
-City Hall - Washington St & 1 St (148.3)
-
-Hoboken Terminal - River St & Hudson Pl (127.1)
-
-Hoboken Terminal - Hudson St & Hudson Pl (121.1)
-
-Grove St PATH (117.4)
-
-Bloomfield St & 15 St (113.1)
+1. South Waterfront Walkway - Sinatra Dr & 1 St (359.8)
+2. 12 St & Sinatra Dr N (241.4)
+3. 14 St Ferry - 14 St & Shipyard Ln (213.3)
+4. Columbus Dr at Exchange Pl (173.6)
+5. Liberty Light Rail (168.4)
+6. City Hall - Washington St & 1 St (148.3)
+7. Hoboken Terminal - River St & Hudson Pl (127.1)
+8. Hoboken Terminal - Hudson St & Hudson Pl (121.1)
+9. Grove St PATH (117.4)
+10. Bloomfield St & 15 St (113.1)
 
 
 Average Speed in MPH
 
 Average speed in MPH is a good indicator of bike system efficiency. By analyzing the average speed of riders, it is possible to identify areas where bikes are slowing down or encountering obstacles, such as heavy traffic or poor road conditions. This information can be used to improve the bike infrastructure in these areas and optimize bike routes to improve speed and reduce travel times.
 
-The Top 10 Stations with the highest speed in Mph ranging from 7 mph to 7.803 mph : Electric bike category
+- The Top 10 Stations with the highest speed in Mph ranging from 7 mph to 7.803 mph : Electric bike category
 
-Bergen Ave
-
-JCBS Depot
-
-Astor Place
-
-Baldwin at Montgomery
-
-McGinley Square
-
-14 St Ferry - 14 St & Shipyard Ln
-
-Fairmount Ave
-
-Madison St & 1 St
-
-Grand St & 14 St
-
-Lafayette Park
+1. Bergen Ave
+2. JCBS Depot
+3. Astor Place
+4. Baldwin at Montgomery
+5. McGinley Square
+6. 14 St Ferry - 14 St & Shipyard Ln
+7. Fairmount Ave
+8. Madison St & 1 St
+9. Grand St & 14 St
+10. Lafayette Park
 
 
-The Top 10 Stations with the highest speed in Mph ranging from 5.850 mph to 7.803 mph : classic bike category
+- The Top 10 Stations with the highest speed in Mph ranging from 5.850 mph to 7.803 mph : classic bike category
 
-Baldwin at Montgomery
+1. Baldwin at Montgomery
+2. Bergen Ave
+3. Astor Place
+4. McGinley Square
+5. Lafayette Park
+6. Hilltop
+7. Dixon Mills
+8. Communipaw & Berry Lane
+9. Marshall St & 2 St
+10. Jackson Square
 
-Bergen Ave
+- The Top 10 Stations with the highest speed in Mph ranging from 3.390 mph to 7.803 mph : docked bike category
 
-Astor Place
-
-McGinley Square
-
-Lafayette Park
-
-Hilltop
-
-Dixon Mills
-
-Communipaw & Berry Lane
-
-Marshall St & 2 St
-
-Jackson Square
-
-The Top 10 Stations with the highest speed in Mph ranging from 3.390 mph to 7.803 mph : docked bike category
-
-Dey St
-
-Brunswick & 6th
-
-Brunswick St
-
-Fairmount Ave
-
-Oakland Ave
-
-Astor Place
-
-Leonard Gordon Park
-
-Madison St & 1 St
-
-Baldwin at Montgomery
-
-McGinley Square
+1. Dey St
+2. Brunswick & 6th
+3. Brunswick St
+4. Fairmount Ave
+5. Oakland Ave
+6. Astor Place
+7. Leonard Gordon Park
+8. Madison St & 1 St
+9. Baldwin at Montgomery
+10. McGinley Square
 
 The rest of the stations that are not part of the top 10s significantly need to be look at to figure out the factors that slowing the speed of the riders.
 
@@ -208,7 +149,7 @@ In summary, analyzing the count of riders by station, distance traveled by stati
 
 
 
-DASHBOARD 2 - Busiest Months
+### DASHBOARD 2 - Busiest Months
 
 
 ![Dashboard2](https://user-images.githubusercontent.com/114210481/224877271-9bf476a1-7bfb-4e3c-9dfd-ff513ad81017.png)
@@ -232,7 +173,7 @@ In summary, analyzing the total monthly trips by station and total number of tri
 
 
 
-DASHBOARD 3 - Busiest Stations
+### DASHBOARD 3 - Busiest Stations
 
 
 ![Dashboard3_Busiest](https://user-images.githubusercontent.com/114210481/224877788-59d77dda-dde8-40ae-933a-2669ae2ed494.png)
@@ -250,25 +191,16 @@ By analyzing the total distance traveled from each station, it is possible to id
 
 Based on the data, the top 10 most popular stations based on distance traveled ranging from 13,567 miles to 26,638 miles are:
 
-Grove St PATH
-
-Hoboken Terminal - River St & Hudson Pl
-
-South Waterfront Walkway - Sinatra Dr & 1 St
-
-City Hall - Washington St & 1 St
-
-Hoboken Terminal - Hudson St & Hudson Pl
-
-Hoboken Ave at Monmouth St
-
-Newport Pkwy
-
-Newport PATH
-
-14 St Ferry - 14 St & Shipyard Ln
-
-12 St & Sinatra Dr N
+1. Grove St PATH
+2. Hoboken Terminal - River St & Hudson Pl
+3. South Waterfront Walkway - Sinatra Dr & 1 St
+4. City Hall - Washington St & 1 St
+5. Hoboken Terminal - Hudson St & Hudson Pl
+6. Hoboken Ave at Monmouth St
+7. Newport Pkwy
+8. Newport PATH
+9. 14 St Ferry - 14 St & Shipyard Ln
+10. 12 St & Sinatra Dr N
 
 Additionally, by analyzing the frequency of trips by month, it is possible to identify the busiest stations during different months of the year
 and also help to identify any seasonal trends in ridership.. This information can be used to allocate resources and optimize the distribution of bikes and docking stations to meet the demand during these busy periods, and also can be used to target marketing efforts and promotions towards specific months or seasonal riders to encourage bike usage.
@@ -277,7 +209,7 @@ In summary, analyzing the total distance traveled and frequency of trips by mont
 
 
 
-DASHBOARD 4 - Usage Patterns of Different Stations
+### DASHBOARD 4 - Usage Patterns of Different Stations
 
 
 ![Dashboard4](https://user-images.githubusercontent.com/114210481/224877365-e0c1e459-4876-4b11-9fd4-c2296452369d.png)
