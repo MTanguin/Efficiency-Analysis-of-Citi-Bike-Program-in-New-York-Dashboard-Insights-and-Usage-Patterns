@@ -40,15 +40,11 @@ By analyzing the count of riders by station, it is possible to identify the most
 
 Based on the data, the top 10 stations with the highest counts of riders are:
 
-South Waterfront Walkway-Sinatra Dr & 1 St	(3542)
-
-Grove St PATH 	(3306)
-
-Hoboken Terminal-Hudson St & Hudson Pl	(2364)
-
-12 St & Sinatra Dr N	(2252)
-
-Hamilton Park	(2246)
+1. South Waterfront Walkway-Sinatra Dr & 1 St	(3542)
+2. Grove St PATH 	(3306)
+3. Hoboken Terminal-Hudson St & Hudson Pl	(2364)
+4. 12 St & Sinatra Dr N	(2252)
+5. Hamilton Park	(2246)
 
 Newport Pkwy	(2213)
 
