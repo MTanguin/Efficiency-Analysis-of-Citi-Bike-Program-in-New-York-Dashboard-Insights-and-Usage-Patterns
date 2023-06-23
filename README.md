@@ -1,4 +1,4 @@
-# citi_bike_tableau
+# Implementing dashboards and story to find out the efficiency of Citi Bike program in New York using Tableau
 
 [Tableau Vizualization](https://public.tableau.com/app/profile/mtanguin/viz/MyFirstViz_16787213064800/MyFirstViz)
 
