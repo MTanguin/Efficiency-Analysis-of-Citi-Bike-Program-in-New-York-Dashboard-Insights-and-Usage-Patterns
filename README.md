@@ -1,6 +1,6 @@
 # citi_bike_tableau
 
-[Vizualization](https://public.tableau.com/app/profile/mtanguin/viz/MyFirstViz_16787213064800/MyFirstViz)
+[Tableau Vizualization](https://public.tableau.com/app/profile/mtanguin/viz/MyFirstViz_16787213064800/MyFirstViz)
 
 
 ## BACKGROUND 
