@@ -215,7 +215,6 @@ In summary, analyzing the total distance traveled and frequency of trips by mont
 ![Dashboard4](https://user-images.githubusercontent.com/114210481/224877365-e0c1e459-4876-4b11-9fd4-c2296452369d.png)
 
 
-
 #### Count of Trips by Rider Type
 
 Analyzing the count of trips by rider type and duration of trips by month can provide valuable insights into the usage patterns of different stations in the Citi Bike program.
